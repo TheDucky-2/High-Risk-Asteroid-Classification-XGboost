@@ -22,8 +22,8 @@ This project builds a machine learning model to classify asteroids as **high ris
 ## Installation & Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/TheDucky-2/high-risk-asteroid-classification-xgboost.git
-    cd high-risk-asteroid-classification-xgboost
+    git clone https://github.com/TheDucky-2/High-Risk-Asteroid-Classification-XGboost.git
+    cd High-Risk-Asteroid-Classification-XGboost
     ```
 2. (Optional) Create and activate a virtual environment:
     ```bash
